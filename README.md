@@ -21,3 +21,4 @@ Migrate: It is used to transfer data from an older databse to  the newly constru
 # Task 4: models
 ->The models folder contains python files for all the tables, that contains the column names and their types
 through which the schema of each and every table in our database is defined.
+.
